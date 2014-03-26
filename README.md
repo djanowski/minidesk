@@ -27,7 +27,7 @@ For the help desk:
 * Canned responses: quickly insert predefined snippets of text with answers to common problems.
 * Knowledge base integration: find and insert links to relevant parts of the knowledge base.
 
-2. Knowledge base
+For the knowledge base:
 
 * CMS: a static content site with sections and articles.
 * Full text search.
