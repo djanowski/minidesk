@@ -16,15 +16,22 @@ Minidesk should:
 4. Leverage other services as much as possible: GitHub, Google Apps, AWS, etc.
 5. Serve startups and small companies that hate to pay $59 per team member.
 
-Feature-wise, Minidesk should provide:
+Features
+--------
 
-1. Help desk
+For the help desk:
 
-   This is a ticket management system.
+* Email integration: tickets are conversations with clients. One or multiple support email addresses for incoming issues.
+* Ticket owners: tickets can be delegated to other team members.
+* Ticket status: it should, at least, differentiate between pending (no reply yet), in progress and closed (archived?).
+* Canned responses: quickly insert predefined snippets of text with answers to common problems.
+* Knowledge base integration: find and insert links to relevant parts of the knowledge base.
 
 2. Knowledge base
 
-   This is a static content site with sections and articles.
+* CMS: a static content site with sections and articles.
+* Full text search.
+* Multi-language support: each article can have translated variants.
    
 Possible integrations
 ---------------------
